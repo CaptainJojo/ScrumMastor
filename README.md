@@ -14,3 +14,7 @@ To install:
 For Mongo, you can use http://www.mongohq.com
 
 All is done, your project is ready.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jonathanj33/scrummastor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
